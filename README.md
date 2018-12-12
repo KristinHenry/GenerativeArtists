@@ -4,8 +4,8 @@
 
 On Dec 9, 2018 I was a little fed up with yet another list of Generative Artists completely devoid of any women. I tweeted 
 	
-	> "Lists of Generative Artists that leave out women are just too cliche. Who are your favorite Generative Artists and Creative Coders, who are also women? Let's start a list."  
-	https://twitter.com/KristinHenry/status/1071807547512840192
+> "Lists of Generative Artists that leave out women are just too cliche. Who are your favorite Generative Artists and Creative Coders, who are also women? Let's start a list."  
+https://twitter.com/KristinHenry/status/1071807547512840192
 
 The responses were wonderful! I discovered so many amazing artists, that I hadn't already known about. Also, I shared some of my favorites.
 
