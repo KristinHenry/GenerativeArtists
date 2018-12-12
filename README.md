@@ -13,9 +13,12 @@ The list below is the initial result of this crowdsourced celebration of women i
 
 ### Note: this is a temporary location, and a preliminary list. A long-term solution is in the works. If you know of someone who should be added to this list, please reach out. https://twitter.com/KristinHenry
 
-* Bleeptrack @Bleeptrack, bleeptrack.de 
-* Kate Compton @GalaxyKate, galaxykate.com 
-* Claudia Doppioslash @doppioslash, doppioslash.com 
+| Name | twitter | website | mastodon |
+|------|---------|---------|----------|
+| Bleeptrack | @Bleeptrack | bleeptrack.de | |
+| Kate Compton | @GalaxyKate | galaxykate.com | |
+| Claudia Doppioslash | @doppioslash | doppioslash.com | |
+
 * Saskia Freeke @sasj_nl, sasj.nl 
 * Katherine Gravett @KateGravett, katherinegravett.simpl.com 
 * Kristin Henry @KristinHenry, kristinhenry.github.io
