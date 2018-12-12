@@ -2,7 +2,7 @@
 
 ## This is a list of Generative Artists who are also Women
 
-### Note: this is a temporary location, and a preliminary list. A long-term solution is in the works.
+### Note: this is a temporary location, and a preliminary list. A long-term solution is in the works. If you know of someone who should be added to this list, please reach out. https://twitter.com/KristinHenry
 
 * Bleeptrack @Bleeptrack, bleeptrack.de 
 * Kate Compton @GalaxyKate, galaxykate.com 
