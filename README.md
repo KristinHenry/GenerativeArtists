@@ -1,6 +1,6 @@
 # GenerativeArtists
 
-## This is a of Generative Artists who are also Women
+## This is a list of Generative Artists who are also Women
 
 ### Note: this is a temporary location, and a preliminary list. A long-term solution is in the works.
 
