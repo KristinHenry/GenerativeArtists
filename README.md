@@ -29,6 +29,7 @@ The list below is the initial result of this crowdsourced celebration of women i
 | Jenni Polodna | @horsewizrd | | |  
 | Jessica Rosenkrantz | @nervous_jessica | n-e-r-v-o-u-s.com | |
 | Karen Royer | @ArundelainDumar | arundeldesign.com | |
+| Deborah Schmidt | @frauzufall | generative.frauzufall.de ||
 | Loren Schmidt | @lorenschmidt | vacuumflowers.com | |
 | Janelle Shane | @JanelleCShane | aiweirdness.com  | |
 | Immy Smith | @Lycomorpha | immysmith.net | |
