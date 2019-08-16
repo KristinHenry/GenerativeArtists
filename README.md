@@ -1,5 +1,7 @@
 # GenerativeArtists
 
+I've recently been pointed to this fantastic article, and am reflecting on how to make changes: https://medium.com/@quinncrossley/uplifting-diverse-genders-beyond-women-and-non-binary-916c890f2185
+
 ## This is a list of Generative Artists who are also Women
 
 On Dec 9, 2018 I was a little fed up with yet another list of Generative Artists completely devoid of any women. I tweeted 
