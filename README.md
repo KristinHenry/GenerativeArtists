@@ -37,4 +37,12 @@ The list below is the initial result of this crowdsourced celebration of women i
 | Anne Sullivan | @annetropy | asdesigned.com | |
 | Laura Taalman | @mathgrrl | mathgrrl.com | | 
 | Tambalaya | @Tambalaya | tambalaya.itch.io | |
+
+
+
+## This is a list of Generative Artists who are also Non-Binary
+
+| Name | twitter | website | mastodon |
+|------|---------|---------|----------|
 | v | @v21 | v21.io | |
+
