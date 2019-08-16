@@ -2,7 +2,7 @@
 
 I've recently been pointed to this fantastic article, and am reflecting on how to make changes: https://medium.com/@quinncrossley/uplifting-diverse-genders-beyond-women-and-non-binary-916c890f2185
 
-## This is a list of Generative Artists who are also Women
+
 
 On Dec 9, 2018 I was a little fed up with yet another list of Generative Artists completely devoid of any women. I tweeted 
 	
@@ -15,14 +15,16 @@ The list below is the initial result of this crowdsourced celebration of women i
 
 ### Note: this is a temporary location, and a preliminary list. A long-term solution is in the works. If you know of someone who should be added to this list, please reach out. https://twitter.com/KristinHenry
 
+## This is a list of Generative Artists who are also Women
+
 | Name | twitter | website | mastodon |
 |------|---------|---------|----------|
-| Bleeptrack | @Bleeptrack | bleeptrack.de | |
+| Bleeptrack | @Bleeptrack | bleeptrack.de | @bleeptrack@chaos.social |
 | Kate Compton | @GalaxyKate | galaxykate.com | |
 | Claudia Doppioslash | @doppioslash | doppioslash.com | |
 | Saskia Freeke | @sasj_nl | sasj.nl | |
 | Katherine Gravett | @KateGravett | katherinegravett.simpl.com | |
-| Kristin Henry | @KristinHenry | kristinhenry.github.io | |
+| Kristin Henry | @KristinHenry | kristinhenry.github.io | @kristinHenry@vis.social |
 | Vera Molnar | | www.veramolnar.com | | 
 | Nathalie Lawhead | @alienmelon | alienmelon.itch.io | |
 | Anastasia Opara | @anastasiaopara | anastasiaopara.com | |
