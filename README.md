@@ -25,7 +25,6 @@ The list below is the initial result of this crowdsourced celebration of women i
 | Nathalie Lawhead | @alienmelon | alienmelon.itch.io | |
 | Anastasia Opara | @anastasiaopara | anastasiaopara.com | |
 | Allison Parrish | @aparrish | decontextualize.com | |
-| everest | @everestpipkin | everest-pipkin.com | |
 | Jenni Polodna | @horsewizrd | | |  
 | Jessica Rosenkrantz | @nervous_jessica | n-e-r-v-o-u-s.com | |
 | Karen Royer | @ArundelainDumar | arundeldesign.com | |
