@@ -22,6 +22,7 @@ The list below is the initial result of this crowdsourced celebration of women i
 | Bleeptrack | @Bleeptrack | bleeptrack.de | @bleeptrack@chaos.social |
 | Kate Compton | @GalaxyKate | galaxykate.com | |
 | Claudia Doppioslash | @doppioslash | doppioslash.com | |
+| Amy Dyer | | http://amydyer.art | |
 | Saskia Freeke | @sasj_nl | sasj.nl | |
 | Katherine Gravett | @KateGravett | katherinegravett.simpl.com | |
 | Kristin Henry | @KristinHenry | kristinhenry.github.io | @kristinHenry@vis.social |
