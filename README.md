@@ -15,7 +15,8 @@ The list below is the initial result of this crowdsourced celebration of women i
 
 ### Note: this is a temporary location, and a preliminary list. A long-term solution is in the works. If you know of someone who should be added to this list, please reach out. https://twitter.com/KristinHenry
 
-## This is a list of Generative Artists who are also Women
+## This is a list of Generative Artists who are also Women or Nonbinary
+In case clarification is needed, Trans Women ARE Women.
 
 | Name | twitter | website | mastodon |
 |------|---------|---------|----------|
