@@ -21,6 +21,7 @@ In case clarification is needed, Trans Women ARE Women.
 | Name | twitter | website | mastodon |
 |------|---------|---------|----------|
 | Bleeptrack | @Bleeptrack | bleeptrack.de | @bleeptrack@chaos.social |
+| Clara Bower | @clarabellum | clarabdevelopment.com | |
 | Kate Compton | @GalaxyKate | galaxykate.com | |
 | Claudia Doppioslash | @doppioslash | doppioslash.com | |
 | Amy Dyer | | http://amydyer.art | |
