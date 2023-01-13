@@ -22,7 +22,7 @@ In case clarification is needed, Trans Women ARE Women.
 |------|---------|---------|----------|
 | Bleeptrack | @Bleeptrack | bleeptrack.de | @bleeptrack@chaos.social |
 | Clara Bower | @clarabellum | clarabdevelopment.com | |
-| Kate Compton | @GalaxyKate | galaxykate.com | |
+| Kate Compton | @GalaxyKate | galaxykate.com | @galaxykate@xoxo.zone |
 | Claudia Doppioslash | @doppioslash | doppioslash.com | |
 | Amy Dyer | | http://amydyer.art | |
 | Saskia Freeke | @sasj_nl | sasj.nl | |
@@ -31,12 +31,12 @@ In case clarification is needed, Trans Women ARE Women.
 | Vera Molnar | | www.veramolnar.com | | 
 | Nathalie Lawhead | @alienmelon | alienmelon.itch.io | |
 | Anastasia Opara | @anastasiaopara | anastasiaopara.com | |
-| Allison Parrish | @aparrish | decontextualize.com | |
+| Allison Parrish | @aparrish | decontextualize.com | @aparrish@friend.camp |
 | Jenni Polodna | @horsewizrd | | |  
-| Jessica Rosenkrantz | @nervous_jessica | n-e-r-v-o-u-s.com | |
+| Jessica Rosenkrantz | @nervous_jessica | n-e-r-v-o-u-s.com | @nervous_jessica@mastodon.social |
 | Karen Royer | @ArundelainDumar | arundeldesign.com | |
 | Deborah Schmidt | @frauzufall | generative.frauzufall.de ||
-| Loren Schmidt | @lorenschmidt | vacuumflowers.com | |
+| Loren Schmidt | @lorenschmidt | vacuumflowers.com | @lorenschmidt@genart.social |
 | Janelle Shane | @JanelleCShane | aiweirdness.com  | |
 | Immy Smith | @Lycomorpha | immysmith.net | |
 | Gillian Smith | @gillianmsmith | sokath.com  | |
