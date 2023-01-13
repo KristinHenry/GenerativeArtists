@@ -20,12 +20,13 @@ In case clarification is needed, Trans Women ARE Women.
 
 | Name | twitter | website | mastodon |
 |------|---------|---------|----------|
-| Bleeptrack | @Bleeptrack | bleeptrack.de | @bleeptrack@chaos.social |
+| Bleeptrack | @Bleeptrack | bleeptrack.de | @bleeptrack@vis.social |
 | Clara Bower | @clarabellum | clarabdevelopment.com | |
 | Kate Compton | @GalaxyKate | galaxykate.com | |
 | Claudia Doppioslash | @doppioslash | doppioslash.com | |
 | Amy Dyer | | http://amydyer.art | |
 | Saskia Freeke | @sasj_nl | sasj.nl | |
+| Amy Goodchild |  | https://www.amygoodchild.com/ | |
 | Katherine Gravett | @KateGravett | katherinegravett.simpl.com | |
 | Kristin Henry | @KristinHenry | kristinhenry.github.io | @kristinHenry@vis.social |
 | Vera Molnar | | www.veramolnar.com | | 
