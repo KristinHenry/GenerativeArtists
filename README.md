@@ -13,7 +13,7 @@ The responses were wonderful! I discovered so many amazing artists, that I hadn'
 
 The list below is the initial result of this crowdsourced celebration of women in Generative Art. My hope is that it will continue to grow.
 
-### Note: this is a temporary location, and a preliminary list. A long-term solution is in the works. If you know of someone who should be added to this list, please reach out. https://twitter.com/KristinHenry
+### Note: this is a temporary location, and a preliminary list. A long-term solution is in the works. If you know of someone who should be added to this list, please reach out. https://vis.social/@kristinHenry
 
 ## This is a list of Generative Artists who are also Women or Nonbinary
 In case clarification is needed, Trans Women ARE Women.
